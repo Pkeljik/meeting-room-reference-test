@@ -1,0 +1,4 @@
+REFERENCE-PROBE-V1
+probe_id=MR-20261005-A7Q9
+expected_value=BLUE-LANTERN-4826
+Synthetic test only. This is not a release approval.
